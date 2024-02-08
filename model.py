@@ -7,5 +7,7 @@ def model1():
 def model2():
     print("addinng code for model 2")
 
-def model2():
+def model3():
     print("addinng code for model 3")
+
+print "model 3 is performing good"
